@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wpicancio
 - 👀 I’m interested in learn and create simple and efficient codes.
-- 🌱 I’m currently learning lenguage C.
+- 🌱 I’m currently learning lenguage C in 42 school Porto.
 - 📫 How to reach me welington.picancio@gmail.com or INSTAGRAM w.picancio.
 
 <!---
