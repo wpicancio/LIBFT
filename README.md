@@ -17,7 +17,7 @@
 
 ### 🌐 JavaScript projects
 - [⏱️ **Chronometer/Timer**](link) - Web application with time control (play/pause/reset) using DOM manipulation.
-- Currency Converter**](link) - Tool that converts between BRL/USD/EUR with dynamic interface and history.
+- [Currency Converter**](link) - Tool that converts between BRL/USD/EUR with dynamic interface and history.
 
 ### 📌 My Journey:
 - 🏋️‍♂️ **Physical Education Teacher** → 💻 **Dev Under Construction**
